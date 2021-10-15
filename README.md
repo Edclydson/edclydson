@@ -5,7 +5,7 @@
 - 👀 Curiosidade: Amo fotografia, games e também pedalo!
 ##
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/edclydson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edclydson&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
 </div>
