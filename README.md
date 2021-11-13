@@ -9,6 +9,7 @@
   <a href="https://github.com/edclydson">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edclydson&layout=compact&langs_count=8&theme=dark&locale=pt-br"/>
 </div>
+  **Linguagens de Programação**
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
