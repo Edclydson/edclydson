@@ -28,9 +28,6 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="center" alt="Ed-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
-<a href="https://sublimetext.com/" target="_blank">
-  <img align="center" alt="Ed-sublimetext" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-</a>
 <a href="https://eclipse.org/ide/" target="_blank">
   <img align="center" alt="Ed-eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </a>
