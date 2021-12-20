@@ -1,6 +1,6 @@
 ### System.out.println("Hello there! 🖖🏾");
 
-- 🧠 Atualmente estudando Python e Java.
+- 🧠 Atualmente estudando Java e Spring Boot.
 - 💬 Fale comigo no <a href="https://instagram.com/edclydson"/>instagram</a> ou pelo <a href="https://twitter.com/edclydsonsousa"/>twitter</a>.
 - 👀 Curiosidade: Amo fotografia, games e também pedalo!
 ##
