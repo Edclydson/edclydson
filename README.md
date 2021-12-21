@@ -29,7 +29,7 @@
   <img align="center" alt="Ed-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
 <a href="https://eclipse.org/ide/" target="_blank">
-  <img align="center" alt="Ed-eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img align="center" alt="Ed-spring" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=spring&logoColor=white">
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" alt="Ed-git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
