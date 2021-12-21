@@ -41,10 +41,6 @@
 <b>Banco de Dados:</b> <br><br>
 <a href="https://mysql.com/" target="_blank">
   <img align="center" alt="Ed-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/" target="_blank">
-  <img align="center" alt="Ed-sqlserver" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
 
 ##
  <div>
