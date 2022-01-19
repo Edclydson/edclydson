@@ -41,7 +41,7 @@
 <b>Banco de Dados:</b> <br><br>
 <a href="https://mysql.com/" target="_blank">
   <img align="center" alt="Ed-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
+</a>
 ##
  <div>
  <br> <b>Saiba Mais:</b> <br><br>
