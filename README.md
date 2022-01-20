@@ -1,9 +1,7 @@
 ### System.out.println("Hello there! 🖖🏾");
 
 - 🧠 Atualmente estudando Java e Spring Boot.
-- 💬 Fale comigo no <a href="https://instagram.com/edclydson"/>instagram</a> ou pelo <a href="https://twitter.com/edclydsonsousa"/>twitter</a>.
-- 👀 Curiosidade: Amo fotografia, games e também pedalo!
-##
+<br>
 
 <div align="left">
   <a href="https://github.com/edclydson">
@@ -43,8 +41,4 @@
   <img align="center" alt="Ed-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 ##
- <div>
- <br> <b>Saiba Mais:</b> <br><br>
-  <a href = "mailto:edclydson.sousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edclydson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
