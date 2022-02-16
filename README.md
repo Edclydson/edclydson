@@ -12,11 +12,11 @@
 <b>Linguagens de Programação já Utilizadas:</b>
 <br>
 <br>
-<a href="https://www.python.org/" target="_blank"> 
-  <img align="center" alt="Ed-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
 <a href="https://www.oracle.com/br/java/" target="_blank">
   <img align="center" alt="Ed-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://www.python.org/" target="_blank"> 
+  <img align="center" alt="Ed-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 <a href="https://www.php.net/" target="_blank">
    <img align="center" alt="Ed-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
