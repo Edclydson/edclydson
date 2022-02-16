@@ -18,9 +18,6 @@
 <a href="https://www.python.org/" target="_blank"> 
   <img align="center" alt="Ed-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
-<a href="https://www.php.net/" target="_blank">
-   <img align="center" alt="Ed-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
 <br><br>
 <b>Ferramentas Utilizadas:</b> <br><br>
 <a href="https://code.visualstudio.com/" target="_blank">
