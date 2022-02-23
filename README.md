@@ -1,6 +1,6 @@
 ### System.out.println("Hello there! 🖖🏾");
 
-- 🧠 Atualmente estudando Java e Spring Boot.
+- 🧠 Atualmente estudando Java e Spring Framework.
 <br>
 
 <div align="left">
