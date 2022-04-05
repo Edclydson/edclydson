@@ -29,6 +29,9 @@
 <a href="https://git-scm.com/" target="_blank">
   <img align="center" alt="Ed-git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
+<a>
+  <img align="center" alt="Ed-notion" src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
+</a>
 <a href="https://apache.org/" target="_blank">
   <img align="center" alt="Ed-apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
 </a>
