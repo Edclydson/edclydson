@@ -13,15 +13,21 @@
 <br>
 <br>
 <a href="https://www.oracle.com/br/java/" target="_blank">
-  <img align="center" alt="Ed-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Ed-Java" src="https://img.shields.io/badge/Java-db4760?style=for-the-badge&logo=java&logoColor=white">
 </a>
 <a href="https://www.python.org/" target="_blank"> 
-  <img align="center" alt="Ed-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Ed-Python" src="https://img.shields.io/badge/Python-ffbc23?style=for-the-badge&logo=python&logoColor=blue">
+</a>
+<a href="https://dart.dev/" target="_blank">
+  <img align="center" alt="Ed-Dart" src="https://img.shields.io/badge/Dart-2a356a?style=for-the-badge&logo=dart&logoColor=239aff">
 </a>
 <br><br>
 <b>Ferramentas Utilizadas:</b> <br><br>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="center" alt="Ed-vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img align="center" alt="Ed-Flutter" src="https://img.shields.io/badge/Flutter-239aff?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
 <a href="https://spring.io/" target="_blank">
   <img align="center" alt="Ed-spring" src="https://img.shields.io/badge/spring-boot?style=for-the-badge&logo=spring&logoColor=white">
