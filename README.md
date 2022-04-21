@@ -1,6 +1,6 @@
 ### System.out.println("Hello there! 🖖🏾");
 
-- 🧠 Atualmente estudando Java e Spring Framework.
+- 🧠 Atualmente estudando Dart e Flutter.
 <br>
 
 <div align="left">
