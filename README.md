@@ -29,6 +29,9 @@
 <a href="https://flutter.dev/" target="_blank">
   <img align="center" alt="Ed-Flutter" src="https://img.shields.io/badge/Flutter-239aff?style=for-the-badge&logo=flutter&logoColor=white">
 </a>
+<a href="https://angular.io/" target="_blank">
+  <img align="center" alt="Ed-Angular" src="https://img.shields.io/badge/Angular-D22128?style=for-the-badge&logo=angular&logoColor=white">
+</a>
 <a href="https://spring.io/" target="_blank">
   <img align="center" alt="Ed-spring" src="https://img.shields.io/badge/spring-boot?style=for-the-badge&logo=spring&logoColor=white">
 </a>
@@ -45,6 +48,9 @@
 <b>Banco de Dados:</b> <br><br>
 <a href="https://mysql.com/" target="_blank">
   <img align="center" alt="Ed-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://postgresql.org/" target="_blank">
+  <img align="center" alt="Ed-postgresql" src="https://img.shields.io/badge/postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 ##
 
