@@ -26,6 +26,9 @@
         <a href="https://www.javascript.com/" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
         </a>
+        <a href="https://www.typescriptlang.org/" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+        </a>
         <a href="https://dart.dev/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
         </a>
