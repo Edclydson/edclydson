@@ -1,6 +1,6 @@
 ## System.out.println("Hello there! 🖖🏾");
 
-### » 🧠 Atualmente estudando Java, Spring e Angular.
+### » 🧠 Atualmente estudando Angular e Containers(Docker).
 
 #### » Informações Extras
   * **Idade:** 26 anos
@@ -52,6 +52,9 @@
         </a>
         <a href="https://heroku.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
+        </a>
+        <a href="https://hub.docker.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
         </a>
       </div>
         <br>
