@@ -1,6 +1,6 @@
 ## System.out.println("Hello there! 🖖🏾");
 
-### » 🧠 Atualmente estudando Angular e Containers(Docker).
+### » 🧠 Atualmente estudando Spring Security e TDD.
 
 #### » Informações Extras
   * **Idade:** 26 anos
