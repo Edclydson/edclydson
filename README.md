@@ -8,10 +8,6 @@
   * **Stack:** Java e Spring
   ##
   <br>
-    <a href="https://github.com/edclydson">
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edclydson&layout=compact&langs_count=5&theme=dark&locale=pt-br" />
-    </a>
-    <br>
     <br>
       <div>
         <b>» Linguagens de Programação já Utilizadas «</b>
