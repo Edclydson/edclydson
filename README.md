@@ -1,6 +1,6 @@
 ## System.out.println("Hello there! 🖖🏾");
 
-### » 🧠 Atualmente estudando Spring Security e TDD.
+### » 🧠 Atualmente estudando Spring Security.
 
 #### » Informações Extras
   * **Idade:** 26 anos
