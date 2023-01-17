@@ -1,6 +1,6 @@
 ## System.out.println("Hello there! 🖖🏾");
 
-### » 🧠 Atualmente estudando Spring Security.
+### » 🧠 Atualmente desenvolvendo o Spring4noobs e estudando Spring Security.
 
 #### » Informações Extras
   * **Idade:** 26 anos
