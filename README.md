@@ -83,7 +83,7 @@ I'm currently working as an intern software developer at [Citinova](https://www.
       </div>
 
 #### » Some stats about my Github
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=edclydson&layout=compact)
+![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edclydson&layout=compact)
       
 ##
 
