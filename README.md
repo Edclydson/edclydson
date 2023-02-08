@@ -18,7 +18,7 @@ I'm currently working as an intern software developer at [Citinova](https://www.
 </div>
 
 #### » Extra Informations
-  * **Age:** 26 y.o.
+  * **Age:** 27 y.o.
   * **Living in:** Fortaleza-CE
   * **Currently studying:** Spring Security (Authorization and Authentication)
   * **Stack:** Java | Spring | SQL
