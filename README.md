@@ -43,9 +43,6 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <a href="https://www.typescriptlang.org/" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
         </a>
-        <a href="https://dart.dev/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-        </a>
       </div>
       <br><br>
       <div>
@@ -57,9 +54,6 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         </a>
         <a href="https://angular.io/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-        </a>
-        <a href="https://flutter.dev/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
         </a>
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
