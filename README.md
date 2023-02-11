@@ -37,12 +37,6 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <a href="https://www.python.org/" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
         </a>
-        <a href="https://www.javascript.com/" target="_blank"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-        </a>
       </div>
       <br><br>
       <div>
@@ -51,6 +45,9 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <br>
         <a href="https://spring.io/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+        </a>
+        <a href="https://angular.io/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
         </a>
         <a href="https://angular.io/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
