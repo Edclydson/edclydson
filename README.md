@@ -46,7 +46,7 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <a href="https://spring.io/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
         </a>
-        <a href="https://angular.io/" target="_blank">
+        <a href="https://www.djangoproject.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
         </a>
         <a href="https://angular.io/" target="_blank">
