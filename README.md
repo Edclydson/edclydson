@@ -1,9 +1,9 @@
 # Hello there! 👽
 My name is Edclydson Sousa. I'm a backend software developer based in Fortaleza, Brazil.
 
-I'm a member of [he4rt developers](https://github.com/he4rt) community, where i've made some contributions and the most recent is the [Spring4noobs](https://github.com/Edclydson/Spring4noobs), but i've also contributed for [Java4noobs](https://github.com/paulorievrs/java4noobs). 
+I'm a member of [he4rt developers](https://github.com/he4rt) community, where I've made some contributions and the most recent is the [Spring4noobs](https://github.com/Edclydson/Spring4noobs), but I've also contributed for [Java4noobs](https://github.com/paulorievrs/java4noobs). 
 
-I'm currently working as an intern software developer at [Citinova](https://www.linkedin.com/company/fundacao-ciencia-tecnologia-citinova) and i'm graduating in System Analyses. In my spare time, I'm expanding my knowledge about the Spring Framework and software development best practices.
+I'm currently working as an intern software developer at [Citinova](https://www.linkedin.com/company/fundacao-ciencia-tecnologia-citinova) and I'm graduating in System Analyses. In my spare time, I'm expanding my knowledge about the Spring Framework and software development best practices.
 
 <div>
  <a href="https://www.linkedin.com/in/edclydson" target="_blank">
