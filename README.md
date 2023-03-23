@@ -58,6 +58,9 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <a href="https://hub.docker.com/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
         </a>
+        <a href="https://hub.docker.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+        </a>
       </div>
         <br>
         <br>
