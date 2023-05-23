@@ -20,7 +20,7 @@ I'm currently working as an intern software developer at [Citinova](https://www.
 #### » Extra Informations
   * **Age:** 27 y.o.
   * **Living in:** Fortaleza-CE
-  * **Currently studying:** Python e Django
+  * **Currently studying:** Php
   * **Stack:** Java | Spring | SQL
   * **Languages:** Portuguese (Native) and English (C2 Level)
   ##
@@ -36,6 +36,9 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         </a>
         <a href="https://www.python.org/" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+        </a>
+        <a href="https://www.php.net/" target="_blank"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
         </a>
       </div>
       <br><br>
