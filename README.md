@@ -77,6 +77,9 @@ I'm currently working as an intern software developer at [Citinova](https://www.
         <a href="https://postgresql.org/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
         </a>
+       <a href="https://postgresql.org/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+        </a>
       </div>
 
 #### » Some stats about my Github
