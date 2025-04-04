@@ -3,7 +3,7 @@ My name is Edclydson Sousa. I'm a backend software developer and a cybersec stud
 
 I'm a member of [he4rt developers](https://github.com/he4rt) community, where I've made some contributions and the most recent is the [Spring4noobs](https://github.com/Edclydson/Spring4noobs), but I've also contributed for [Java4noobs](https://github.com/paulorievrs/java4noobs). 
 
-I'm currently working as an intern software developer at [Citinova](https://www.linkedin.com/company/fundacao-ciencia-tecnologia-citinova) since march 2023, I'm graduated in System Analyses and Development and now I'm specializing in Cyber Security. In my spare time, I'm expanding my knowledge about the CyberSec (network, architecture, hardware hacking, pentest, secure software development and the best practices).
+I'm graduated in System Analyses and Development and now I'm specializing in Cyber Security. In my spare time, I'm expanding my knowledge about the CyberSec (network, architecture, hardware hacking, pentest, secure software development and the best practices).
 
 <div>
  <a href="https://www.linkedin.com/in/edclydson" target="_blank">
