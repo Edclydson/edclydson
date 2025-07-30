@@ -24,7 +24,7 @@ I have completed my undergraduation in Systems Analysis and Development and I'm 
   * **Living in:** Fortaleza-CE
   * **Currently studying:** CyberSec
   * **Stack:** Java | Python
-  * **Languages:** Portuguese (Native) and English (C2 Level)
+  * **Languages:** Portuguese (Native) and English (B2 Level)
   ##
  
   <br>
