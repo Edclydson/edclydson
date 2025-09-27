@@ -1,5 +1,5 @@
 # Olá! 👽 🇧🇷
-Meu nome é Edclydson Sousa. Sou Engenheiro de Software Jr, estudante de Cyber Security e sou de Fortaleza.
+Meu nome é Edclydson Sousa. Sou Engenheiro de Software, estudante de Cyber Security e sou de Fortaleza.
 
 Sou membro da comunidade [he4rt developers](https://github.com/he4rt), onde contribuí criando o repositório [Spring4noobs](https://github.com/Edclydson/Spring4noobs) e também ajudei no repositório [Java4noobs](https://github.com/paulorievrs/java4noobs). 
 
@@ -7,7 +7,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursan
 <hr>
 
 # Hello! 👽 🇺🇸
-My name is Edclydson Sousa. I'm a Jr. Software Engineer, a Cyber Security student, and I'm from Fortaleza.
+My name is Edclydson Sousa. I'm a Software Engineer, a Cyber Security student, and I'm from Fortaleza.
 
 I'm a member of the [he4rt developers](https://github.com/he4rt) community, where I contributed by creating the [Spring4noobs](https://github.com/Edclydson/Spring4noobs) repository and also helped with the [Java4noobs](https://github.com/paulorievrs/java4noobs) repository.
 
