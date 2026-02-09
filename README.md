@@ -20,7 +20,7 @@ I have completed my undergraduation in Systems Analysis and Development, a Post-
 </div>
 
 #### » Extra Informations
-  * **Age:** 29 y.o.
+  * **Age:** 30 y.o.
   * **Living in:** Fortaleza-CE
   * **Currently studying:** CyberSec
   * **Stack:** Java | Python
