@@ -3,7 +3,7 @@ Meu nome é Edclydson Sousa. Sou Engenheiro de Software, estudante de Cyber Secu
 
 Sou membro da comunidade [he4rt developers](https://github.com/he4rt), onde contribuí criando o repositório [Spring4noobs](https://github.com/Edclydson/Spring4noobs) e também ajudei no repositório [Java4noobs](https://github.com/paulorievrs/java4noobs). 
 
-Sou graduado em Análise e Desenvolvimento de Sistemas, Pós-graduado em Cyber Security e atualmente estou cursando minha segunda Pós-graduação, em Perícia Forense Computacional. Quando tenho um tempo livre gosto de estudar sobre Segurança Cibernética e tento aplicar o que aprendi nos meus códigos, dispositivos e no meu dia a dia. Além disso, estou sempre buscando melhorar meus conhecimentos na área de desenvolvimento com artigos, livros, tutoriais e comunidades.
+Sou graduado em **Análise e Desenvolvimento de Sistemas**, Pós-graduado em **Cyber Security** e em **Perícia Forense Computacional**. Atualmente estou cursando minha terceira especialização, desta vez em **Segurança da Informação**. Quando tenho um tempo livre gosto de estudar sobre Segurança Cibernética e tento aplicar o que aprendi nos meus códigos, dispositivos e no meu dia a dia. Além disso, estou sempre buscando melhorar meus conhecimentos na área de desenvolvimento com artigos, livros, tutoriais e comunidades.
 <hr>
 
 # Hello! 👽 🇺🇸
@@ -11,7 +11,7 @@ My name is Edclydson Sousa. I'm a Software Engineer, a Cyber Security student, a
 
 I'm a member of the [he4rt developers](https://github.com/he4rt) community, where I contributed by creating the [Spring4noobs](https://github.com/Edclydson/Spring4noobs) repository and also helped with the [Java4noobs](https://github.com/paulorievrs/java4noobs) repository.
 
-I have completed my undergraduation in Systems Analysis and Development, a Post-graduate degree in Cyber Security, and I am currently pursuing my second Post-graduate specialization, this time in Computer Forensics. When I have free time, I enjoy studying Cyber Security and I try to apply what I've learned to my code, devices, and my daily life. Furthermore, I'm always looking to improve my knowledge in the development area with articles, books, tutorials, and communities.
+I have a degree in **Systems Analysis and Development** and hold a postgraduate degrees in **Cyber Security** and **Computer Forensics**. I am currently pursuing my third postgraduate specialization, this time in **Information Security**. When I have free time, I enjoy studying Cyber Security and I try to apply what I've learned to my code, devices, and my daily life. Furthermore, I'm always looking to improve my knowledge in the development area with articles, books, tutorials, and communities.
 
 <div>
  <a href="https://www.linkedin.com/in/edclydson" target="_blank">
