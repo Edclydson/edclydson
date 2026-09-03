@@ -84,8 +84,6 @@ I have a degree in **Systems Analysis and Development** and hold a postgraduate 
         </a>
       </div>
 
-#### » Some stats about my Github
-![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=edclydson&layout=compact)
       
 ##
 
